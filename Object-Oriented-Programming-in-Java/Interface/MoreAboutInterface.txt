@@ -1,0 +1,14 @@
+
+    We can’t create instance(interface can’t be instantiated) of interface but we can make reference of it that refers to the Object of its implementing class.
+
+    A class can implement more than one interface.
+
+    An interface can extends another interface or interfaces (more than one interface) .
+
+    A class that implements interface must implements all the methods in interface.
+
+    In Java, all methods in an interface are public even if we do not specify public with method names. Also, data fields are public static final even if we do not mention it with fields names. Therefore, data fields must be initialized.
+
+    It is used to achieve multiple inheritance.
+
+    It is used to achieve loose coupling.
